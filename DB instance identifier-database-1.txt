@@ -1,0 +1,7 @@
+DB instance identifier:-database-1
+master username:-admin
+password:- 12345678
+port:-3306
+
+
+security group:-rds-python
